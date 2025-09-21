@@ -55,17 +55,3 @@ The **Automated Resume Relevance Check System** solves these problems by:
 7. **Download report**  
 
 ---
-
-
-
-## 🚀 Deployment  
-The project is deployed on **Streamlit Cloud**.  
-👉 [Live Demo Link](https://your-deployed-app.streamlit.app) *(replace with your link)*  
-
----
-
-## 📥 Installation (Run Locally)  
-1. Clone repo:  
-   ```bash
-   git clone https://github.com/your-username/resume-relevance-check.git
-   cd resume-relevance-check
