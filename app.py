@@ -1,3 +1,6 @@
+# -------------------
+#  Debug Thugs
+# -------------------
 import streamlit as st
 import PyPDF2
 import docx2txt
